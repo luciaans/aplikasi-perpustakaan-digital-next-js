@@ -1,4 +1,4 @@
-# Aplikasi Perpustakaan Digital - Next.js
+# Aplikasi Perpustakaan Digital Frontend - Next.js
 
 ## Informasi Mahasiswa
 - **Nama**: Sayyid M Rizqi R Al Qadrie
